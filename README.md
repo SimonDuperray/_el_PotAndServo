@@ -8,7 +8,8 @@
 * [Setup](#setup)
 
 ## :page_facing_up: General info
-Control a servomotor with a potentiometer.
+Control a servomotor with a potentiometer.<br><br>
+[![servopot.jpg](https://i.postimg.cc/FsBqBfh0/servopot.jpg)](https://postimg.cc/HVbBJkcL)
 	
 ## :computer: Technologies
 PotentiometerAndServomotor is created with:
